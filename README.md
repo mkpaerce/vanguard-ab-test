@@ -21,8 +21,10 @@ This project evaluates the effect of a redesigned UI on user performance in Vang
 - **Error Rate:** The Test Group showed higher error rates in Step 1.  
 - **Time Taken:** The new UI increased completion time for some users, especially in early steps.  
 
+- Presentation Link:https://docs.google.com/presentation/d/1dQK6OA6uhE9Pmas3V4g1WYmPI3KOppbepJVNN_Fyv2A/edit#slide=id.g3269a4724af_0_376
+  
 ## Team Members ##
--Elohor
--Mike
--Prince
--Angel
+- Elohor
+- Mike
+- Prince
+- Angel
