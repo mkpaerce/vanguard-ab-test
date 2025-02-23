@@ -22,7 +22,7 @@ This project evaluates the effect of a redesigned UI on user performance in Vang
 - **Time Taken:** The new UI increased completion time for some users, especially in early steps.  
 
 ## Team Members ##
-Elohor
-Mike
-Prince
-Angel
+-Elohor
+-Mike
+-Prince
+-Angel
